@@ -20,7 +20,7 @@ The plugin allows you to use Glomo Money payment gateway with the PrestaShop plu
 
   * Click _Installed modules_ tab, locate _Glomo Money_ module and click _Configure_ button
   * Make it active
-  * Enter in fields _App Id_, _App secret key_  and _App token,Service Name 
+  * Enter in fields _App Id_, _App secret key_  and _App token_,_Service Name_ ... 
   * Activate payment methods you want accept payment with and setup titles of them visible to customers
   
 ## Notes
