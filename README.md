@@ -10,7 +10,7 @@ The plugin allows you to use Glomo Money payment gateway with the PrestaShop plu
 
 ## Install module
 
-  * Download [glomo_prestashorp.zip](https://github.com/glomoapp/glomo_prestashop_payment_plugin/blob/master/glomo_prestashorp.zip)
+  * Download [glomo_prestashorp.zip](https://github.com/glomoapp/glomo_prestashop_payment_plugin/raw/master/glomo_prestashorp.zip)
   * Login to your PrestaShop admin area and select the _Modules_ menu
   * Click _Upload a module_
   * Upload the archive _glomo prestashorp.zip_ via a module installer
